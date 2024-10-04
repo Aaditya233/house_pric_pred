@@ -163,10 +163,25 @@ The following models were trained and tested to predict house prices:
 - **Web application deployment** 🌐 for user accessibility.
 - **Inclusion of more features** such as neighborhood data or historical prices for better predictions.
 
-## 🤝 Contributing
-Contributions are welcome! Feel free to fork the repository, open issues, or submit pull requests. 😊
-
-
 
 **Let’s predict house prices together! 🏠💸**
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/a89db8de-c0f4-42e1-888f-e63d9ecfc9fe)
+
+
+
+
+
+
+
+
+
+
+
+
 
